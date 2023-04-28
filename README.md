@@ -1,4 +1,4 @@
-# Libft Project
+# Libft Project ![Grade](https://img.shields.io/badge/Grade-125/100-brightgreen)
 
 This is my submission for the Libft project at School 42. The goal of this project was to create our own library of useful C functions, as a way to improve our programming skills and become more familiar with the standard C library.
 
