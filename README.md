@@ -30,7 +30,7 @@ These functions allow for memory manipulation:
 - `ft_memcmp`: compares two blocks of memory.
 - `ft_calloc`: allocates memory for an array of elements and initializes it to zero.
 
-### String Functions
+### String Functions 
 
 These functions allow for string manipulation:
 
